@@ -12,6 +12,9 @@ body {
   background-color: var(--color-yellow);
 }
 
+h2:hover {
+  color: var(--color-yellow);
+}
 .preview__container {
   display: flex;
   justify-content: center;
